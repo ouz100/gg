@@ -1,0 +1,42 @@
+.container{
+    background-color: antiquewhite;
+    flex-wrap: wrap; 
+    justify-content: center;
+}
+.top{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+.bottom{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 30px;
+}
+.digi1{
+    border: 1px solid #fff;
+    background-color: #fff;
+}
+.digi2{
+    border: 1px solid #fff;
+    background-color: #fff;
+}
+.digi3{
+    border: 1px solid #fff;
+    background-color: #fff;
+}
+.digi4{
+    border: 1px solid #fff;
+    background-color: #fff;
+
+}
+.digi5{
+    border: 1px solid #fff;
+    background-color: #fff;
+}
+.digi6{
+    border: 1px solid #fff;
+    background-color: #fff;
+}
